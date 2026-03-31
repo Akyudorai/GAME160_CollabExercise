@@ -1534,3 +1534,61 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.03.31-19.29.38:683][390]AssetCheck: /Game/BLUEPRINTS_GO_HERE/BP_Sample Validating asset
 [2026.03.31-19.29.38:719][390]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Projects/GAME160_CollabExercise/GAME160/Saved/SourceControl/UncontrolledChangelists.json
 [2026.03.31-19.29.40:136][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.03.31-19.32.37:508][225]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 360.452911
+[2026.03.31-19.32.38:508][228]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-19.32.38:509][228]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 361.119324, Update Interval: 329.275787
+[2026.03.31-19.38.11:117][758]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 694.061340
+[2026.03.31-19.38.12:117][761]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-19.38.12:119][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 694.727783, Update Interval: 339.760742
+[2026.03.31-19.43.59:528][803]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1042.471924
+[2026.03.31-19.44.00:528][806]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-19.44.00:528][806]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1043.138550, Update Interval: 347.691284
+[2026.03.31-19.50.00:947][887]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1403.889771
+[2026.03.31-19.50.01:947][890]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-19.50.01:947][890]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1404.556396, Update Interval: 343.596924
+[2026.03.31-19.56.02:357][971]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1765.297241
+[2026.03.31-19.56.03:356][974]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-19.56.03:356][974]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1765.964111, Update Interval: 309.344147
+[2026.03.31-20.02.00:429][ 45]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2123.366943
+[2026.03.31-20.02.01:429][ 48]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-20.02.01:429][ 48]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2124.033447, Update Interval: 340.610382
+[2026.03.31-20.08.36:838][234]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2519.779053
+[2026.03.31-20.08.37:838][237]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-20.08.37:838][237]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2520.445557, Update Interval: 343.333221
+[2026.03.31-20.14.53:923][365]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2896.866455
+[2026.03.31-20.14.54:923][368]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-20.14.54:923][368]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2897.532959, Update Interval: 309.834900
+[2026.03.31-20.20.44:651][417]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3247.595703
+[2026.03.31-20.20.45:652][420]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-20.20.45:652][420]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3248.263184, Update Interval: 355.497314
+[2026.03.31-20.27.11:732][578]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3634.674561
+[2026.03.31-20.27.12:732][581]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-20.27.12:732][582]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3635.341797, Update Interval: 314.423645
+[2026.03.31-20.28.30:577][815]LogDerivedDataCache: C:/Users/UF-CJ/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.31-20.31.40:593][587]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.31-20.31.40:602][587]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.31-20.31.40:613][587]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.31-20.31.40:631][588]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.03.31-20.31.43:274][737]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Coco
+[2026.03.31-20.31.43:302][737]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.31-20.31.44:860][824]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BLUEPRINTS_GO_HERE/BP_Coco.BP_Coco
+[2026.03.31-20.31.44:862][824]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.03.31-20.31.56:594][368]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetSystemLibrary::PrintString' [Element not found.]
+[2026.03.31-20.32.02:251][685]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2026.03.31-20.32.03:956][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.31-20.32.03:988][785]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BLUEPRINTS_GO_HERE/BP_Coco] ([2] browsable assets)...
+[2026.03.31-20.32.03:988][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINTS_GO_HERE/BP_Coco]
+[2026.03.31-20.32.03:988][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS_GO_HERE/BP_Coco" FILE="../../../../../../Projects/GAME160_CollabExercise/GAME160/Content/BLUEPRINTS_GO_HERE/BP_Coco.uasset" SILENT=true
+[2026.03.31-20.32.04:001][785]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS_GO_HERE/BP_Coco
+[2026.03.31-20.32.04:001][785]LogSavePackage: Moving '../../../../../../Projects/GAME160_CollabExercise/GAME160/Saved/BP_Coco202BEA49465054BE6A5BAD90B0BC7BC9.tmp' to '../../../../../../Projects/GAME160_CollabExercise/GAME160/Content/BLUEPRINTS_GO_HERE/BP_Coco.uasset'
+[2026.03.31-20.32.04:014][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.579 ms (total: 2.26 sec)
+[2026.03.31-20.32.04:057][785]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.31-20.32.04:057][785]LogContentValidation: Enabled validators:
+[2026.03.31-20.32.04:057][785]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.31-20.32.04:057][785]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.31-20.32.04:057][785]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.31-20.32.04:057][785]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.31-20.32.04:058][785]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.31-20.32.04:058][785]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.31-20.32.04:058][785]AssetCheck: /Game/BLUEPRINTS_GO_HERE/BP_Coco Validating asset
+[2026.03.31-20.32.04:085][785]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Projects/GAME160_CollabExercise/GAME160/Saved/SourceControl/UncontrolledChangelists.json
