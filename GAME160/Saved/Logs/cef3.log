@@ -9,3 +9,4 @@ C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_
 [0331/171439.473:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
 
+[0331/171613.755:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

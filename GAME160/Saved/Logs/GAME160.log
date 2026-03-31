@@ -1211,3 +1211,152 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.31-21.15.39:355][944]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BiggestBird_C_0 /Engine/Transient.World_6:PersistentLevel.BiggestBird_C_0.CharacterMesh0 Bone: 'neutral_bone' 
 [2026.03.31-21.15.49:323][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
 [2026.03.31-21.15.52:686][732]LogDerivedDataCache: C:/Users/whart/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.31-21.16.38:557][ 67]LogSlate: Window 'Fab' being destroyed
+[2026.03.31-21.16.38:567][ 67]LogSlate: Window 'Fab' being destroyed
+[2026.03.31-21.16.40:064][157]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2026.03.31-21.16.40:065][157]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/c35f160c-8db1-481e-85cc-c66d2732c8a3.
+[2026.03.31-21.16.43:360][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.31-21.16.43:366][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.31-21.16.43:455][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Rooster_chicken/chicken_root/SkeletalMeshes/chicken_root] ([1] browsable assets)...
+[2026.03.31-21.16.43:495][344]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Fab/Rooster_chicken/chicken_root/SkeletalMeshes/chicken_root.chicken_root]
+[2026.03.31-21.16.43:495][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Rooster_chicken/chicken_root/SkeletalMeshes/chicken_root]
+[2026.03.31-21.16.43:511][344]LogSavePackage: Moving output files for package: /Game/Fab/Rooster_chicken/chicken_root/SkeletalMeshes/chicken_root
+[2026.03.31-21.16.43:511][344]LogSavePackage: Moving '../../../../../../GameEngines/Unreal Projects/GAME160_CollabExercise/GAME160/Saved/chicken_rootDEEC3912473B4DAA1406EEA47B28A36E.tmp' to '../../../../../../GameEngines/Unreal Projects/GAME160_CollabExercise/GAME160/Content/Fab/Rooster_chicken/chicken_root/SkeletalMeshes/chicken_root.uasset'
+[2026.03.31-21.16.43:513][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Rooster_chicken/chicken_root/SkeletalMeshes/chicken_root_PhysicsAsset] ([1] browsable assets)...
+[2026.03.31-21.16.43:513][344]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.03.31-21.16.43:529][344]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Fab/Rooster_chicken/chicken_root/SkeletalMeshes/chicken_root_PhysicsAsset.chicken_root_PhysicsAsset]
+[2026.03.31-21.16.43:529][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Rooster_chicken/chicken_root/SkeletalMeshes/chicken_root_PhysicsAsset]
+[2026.03.31-21.16.43:538][344]LogSavePackage: Moving output files for package: /Game/Fab/Rooster_chicken/chicken_root/SkeletalMeshes/chicken_root_PhysicsAsset
+[2026.03.31-21.16.43:538][344]LogSavePackage: Moving '../../../../../../GameEngines/Unreal Projects/GAME160_CollabExercise/GAME160/Saved/chicken_root_PhysicsAssetD1125A3C46EBAD482E9477B9A51429BB.tmp' to '../../../../../../GameEngines/Unreal Projects/GAME160_CollabExercise/GAME160/Content/Fab/Rooster_chicken/chicken_root/SkeletalMeshes/chicken_root_PhysicsAsset.uasset'
+[2026.03.31-21.16.43:539][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Rooster_chicken/chicken_root/SkeletalMeshes/chicken_root_Skeleton] ([1] browsable assets)...
+[2026.03.31-21.16.43:539][344]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.03.31-21.16.43:557][344]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Fab/Rooster_chicken/chicken_root/SkeletalMeshes/chicken_root_Skeleton.chicken_root_Skeleton]
+[2026.03.31-21.16.43:557][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Rooster_chicken/chicken_root/SkeletalMeshes/chicken_root_Skeleton]
+[2026.03.31-21.16.43:564][344]LogSavePackage: Moving output files for package: /Game/Fab/Rooster_chicken/chicken_root/SkeletalMeshes/chicken_root_Skeleton
+[2026.03.31-21.16.43:564][344]LogSavePackage: Moving '../../../../../../GameEngines/Unreal Projects/GAME160_CollabExercise/GAME160/Saved/chicken_root_Skeleton0FFF09AB44648935C1DEA8BDEE1DD4ED.tmp' to '../../../../../../GameEngines/Unreal Projects/GAME160_CollabExercise/GAME160/Content/Fab/Rooster_chicken/chicken_root/SkeletalMeshes/chicken_root_Skeleton.uasset'
+[2026.03.31-21.16.43:565][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Rooster_chicken/chicken_root/Textures/chicken_normal] ([1] browsable assets)...
+[2026.03.31-21.16.43:568][344]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Rooster_chicken/chicken_root/Textures/chicken_normal.chicken_normal]
+[2026.03.31-21.16.43:568][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Rooster_chicken/chicken_root/Textures/chicken_normal]
+[2026.03.31-21.16.43:600][344]LogSavePackage: Moving output files for package: /Game/Fab/Rooster_chicken/chicken_root/Textures/chicken_normal
+[2026.03.31-21.16.43:600][344]LogSavePackage: Moving '../../../../../../GameEngines/Unreal Projects/GAME160_CollabExercise/GAME160/Saved/chicken_normal964D21A54B2B11FDC156C5A2168A3F6A.tmp' to '../../../../../../GameEngines/Unreal Projects/GAME160_CollabExercise/GAME160/Content/Fab/Rooster_chicken/chicken_root/Textures/chicken_normal.uasset'
+[2026.03.31-21.16.43:601][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Rooster_chicken/chicken_root/Textures/chicken_color] ([1] browsable assets)...
+[2026.03.31-21.16.43:603][344]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Rooster_chicken/chicken_root/Textures/chicken_color.chicken_color]
+[2026.03.31-21.16.43:603][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Rooster_chicken/chicken_root/Textures/chicken_color]
+[2026.03.31-21.16.43:629][344]LogSavePackage: Moving output files for package: /Game/Fab/Rooster_chicken/chicken_root/Textures/chicken_color
+[2026.03.31-21.16.43:629][344]LogSavePackage: Moving '../../../../../../GameEngines/Unreal Projects/GAME160_CollabExercise/GAME160/Saved/chicken_color02D9D18544E5184FDB72A6ACF55A4B95.tmp' to '../../../../../../GameEngines/Unreal Projects/GAME160_CollabExercise/GAME160/Content/Fab/Rooster_chicken/chicken_root/Textures/chicken_color.uasset'
+[2026.03.31-21.16.43:630][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Rooster_chicken/chicken_root/Materials/Material] ([1] browsable assets)...
+[2026.03.31-21.16.43:635][344]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Rooster_chicken/chicken_root/Materials/Material.Material]
+[2026.03.31-21.16.43:635][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Rooster_chicken/chicken_root/Materials/Material]
+[2026.03.31-21.16.43:643][344]LogSavePackage: Moving output files for package: /Game/Fab/Rooster_chicken/chicken_root/Materials/Material
+[2026.03.31-21.16.43:643][344]LogSavePackage: Moving '../../../../../../GameEngines/Unreal Projects/GAME160_CollabExercise/GAME160/Saved/Material98C9D3154CBC68652F4495931C850335.tmp' to '../../../../../../GameEngines/Unreal Projects/GAME160_CollabExercise/GAME160/Content/Fab/Rooster_chicken/chicken_root/Materials/Material.uasset'
+[2026.03.31-21.16.43:644][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BLUEPRINTS_GO_HERE/BiggestBird] ([2] browsable assets)...
+[2026.03.31-21.16.43:650][344]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BLUEPRINTS_GO_HERE/BiggestBird.BiggestBird]
+[2026.03.31-21.16.43:650][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINTS_GO_HERE/BiggestBird]
+[2026.03.31-21.16.43:660][344]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS_GO_HERE/BiggestBird
+[2026.03.31-21.16.43:660][344]LogSavePackage: Moving '../../../../../../GameEngines/Unreal Projects/GAME160_CollabExercise/GAME160/Saved/BiggestBird9983D3CB4C9EB514F086A08E41F49B2F.tmp' to '../../../../../../GameEngines/Unreal Projects/GAME160_CollabExercise/GAME160/Content/BLUEPRINTS_GO_HERE/BiggestBird.uasset'
+[2026.03.31-21.16.43:671][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 304.218 ms
+[2026.03.31-21.16.43:774][344]LogContentValidation: Display: Starting to validate 7 assets
+[2026.03.31-21.16.43:774][344]LogContentValidation: Enabled validators:
+[2026.03.31-21.16.43:774][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.31-21.16.43:774][344]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.31-21.16.43:774][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.31-21.16.43:774][344]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.31-21.16.43:774][344]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.31-21.16.43:774][344]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.31-21.16.43:774][344]AssetCheck: /Game/Fab/Rooster_chicken/chicken_root/SkeletalMeshes/chicken_root Validating asset
+[2026.03.31-21.16.43:777][344]AssetCheck: /Game/Fab/Rooster_chicken/chicken_root/SkeletalMeshes/chicken_root_PhysicsAsset Validating asset
+[2026.03.31-21.16.43:777][344]AssetCheck: /Game/Fab/Rooster_chicken/chicken_root/SkeletalMeshes/chicken_root_Skeleton Validating asset
+[2026.03.31-21.16.43:777][344]AssetCheck: /Game/Fab/Rooster_chicken/chicken_root/Textures/chicken_normal Validating asset
+[2026.03.31-21.16.43:777][344]AssetCheck: /Game/Fab/Rooster_chicken/chicken_root/Textures/chicken_color Validating asset
+[2026.03.31-21.16.43:777][344]AssetCheck: /Game/Fab/Rooster_chicken/chicken_root/Materials/Material Validating asset
+[2026.03.31-21.16.43:777][344]AssetCheck: /Game/BLUEPRINTS_GO_HERE/BiggestBird Validating asset
+[2026.03.31-21.16.43:795][344]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GameEngines/Unreal Projects/GAME160_CollabExercise/GAME160/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.31-21.16.44:951][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.03.31-21.16.44:976][413]LogStall: Shutdown...
+[2026.03.31-21.16.44:976][413]LogStall: Shutdown complete.
+[2026.03.31-21.16.45:001][413]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-21.16.45:001][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-21.16.45:058][413]LogSlate: Window 'GAME160 - Unreal Editor' being destroyed
+[2026.03.31-21.16.45:165][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.03.31-21.16.45:173][413]Cmd: QUIT_EDITOR
+[2026.03.31-21.16.45:173][414]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.31-21.16.45:177][414]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.31-21.16.45:177][414]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.31-21.16.45:177][414]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.31-21.16.45:177][414]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-21.16.45:178][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-21.16.45:184][414]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.31-21.16.45:184][414]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.31-21.16.45:184][414]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.31-21.16.45:186][414]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-21.16.45:186][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-21.16.45:189][414]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-21.16.45:189][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-21.16.45:191][414]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-21.16.45:192][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-21.16.45:194][414]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-21.16.45:194][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-21.16.45:198][414]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-21.16.45:198][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-21.16.45:200][414]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-21.16.45:200][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-21.16.45:203][414]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.31-21.16.45:203][414]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.31-21.16.45:205][414]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.31-21.16.45:206][414]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.31-21.16.45:206][414]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.31-21.16.45:206][414]LogAudio: Display: Audio Device unregistered from world 'Untitled'.
+[2026.03.31-21.16.45:206][414]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.31-21.16.45:207][414]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.31-21.16.45:209][414]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.31-21.16.45:216][414]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.31-21.16.45:216][414]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.31-21.16.45:218][414]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.31-21.16.45:219][414]LogExit: Preparing to exit.
+[2026.03.31-21.16.45:251][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:254][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.31-21.16.45:985][414]LogEditorDataStorage: Deinitializing
+[2026.03.31-21.16.46:076][414]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.31-21.16.46:086][414]LogExit: Editor shut down
+[2026.03.31-21.16.46:088][414]LogExit: Transaction tracking system shut down
+[2026.03.31-21.16.46:190][414]LogExit: Object subsystem successfully closed.
+[2026.03.31-21.16.46:218][414]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.31-21.16.46:351][414]LogMemoryProfiler: Shutdown
+[2026.03.31-21.16.46:351][414]LogNetworkingProfiler: Shutdown
+[2026.03.31-21.16.46:351][414]LoadingProfiler: Shutdown
+[2026.03.31-21.16.46:351][414]LogTimingProfiler: Shutdown
+[2026.03.31-21.16.46:351][414]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.31-21.16.46:351][414]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.03.31-21.16.47:014][414]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.31-21.16.47:026][414]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.31-21.16.47:026][414]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8EA787D1-4D68-227E-9AAB-1584AF2609D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=e6ae7d2e40e402879ca4ff86710b1486%7C76acb0186ae54eb5a1dd046d4d5d22fe%7Cbfdc5f0f-6715-4dc2-8712-35d33190d06e&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.31-21.16.47:580][414]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.31-21.16.47:583][414]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.31-21.16.47:583][414]RenderDocPlugin: plugin has been unloaded.
+[2026.03.31-21.16.47:584][414]LogXGEController: Cleaning working directory: C:/Users/whart/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.03.31-21.16.47:586][414]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.31-21.16.47:586][414]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.31-21.16.47:586][414]LogPakFile: Destroying PakPlatformFile
+[2026.03.31-21.16.47:791][414]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.31-21.16.47:819][414]LogExit: Exiting.
+[2026.03.31-21.16.47:836][414]Log file closed, 03/31/26 17:16:47
