@@ -1503,3 +1503,34 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.03.31-19.27.55:570][613]LogStreaming: Display: FlushAsyncLoading(749): 1 QueuedPackages, 0 AsyncPackages
 [2026.03.31-19.27.55:587][614]LogStreaming: Display: FlushAsyncLoading(750): 1 QueuedPackages, 0 AsyncPackages
 [2026.03.31-19.27.55:603][615]LogStreaming: Display: FlushAsyncLoading(751): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.31-19.28.30:576][771]LogDerivedDataCache: C:/Users/UF-CJ/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.31-19.29.12:549][177]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.31-19.29.12:558][177]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.31-19.29.12:567][177]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.31-19.29.12:611][179]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.03.31-19.29.16:695][412]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Sample
+[2026.03.31-19.29.16:707][412]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.31-19.29.18:611][524]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BLUEPRINTS_GO_HERE/BP_Sample.BP_Sample
+[2026.03.31-19.29.18:613][524]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.03.31-19.29.18:928][524]LogStreaming: Display: FlushAsyncLoading(752): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.31-19.29.20:661][524]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2026.03.31-19.29.20:663][524]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2026.03.31-19.29.24:306][662]LogSlate: Took 0.000873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.03.31-19.29.38:450][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.31-19.29.38:565][390]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BLUEPRINTS_GO_HERE/BP_Sample] ([2] browsable assets)...
+[2026.03.31-19.29.38:565][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINTS_GO_HERE/BP_Sample]
+[2026.03.31-19.29.38:565][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS_GO_HERE/BP_Sample" FILE="../../../../../../Projects/GAME160_CollabExercise/GAME160/Content/BLUEPRINTS_GO_HERE/BP_Sample.uasset" SILENT=true
+[2026.03.31-19.29.38:580][390]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS_GO_HERE/BP_Sample
+[2026.03.31-19.29.38:580][390]LogSavePackage: Moving '../../../../../../Projects/GAME160_CollabExercise/GAME160/Saved/BP_SampleED1C516B45A0589C894C91A58115EB31.tmp' to '../../../../../../Projects/GAME160_CollabExercise/GAME160/Content/BLUEPRINTS_GO_HERE/BP_Sample.uasset'
+[2026.03.31-19.29.38:596][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.893 ms (total: 2.20 sec)
+[2026.03.31-19.29.38:683][390]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.31-19.29.38:683][390]LogContentValidation: Enabled validators:
+[2026.03.31-19.29.38:683][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.31-19.29.38:683][390]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.31-19.29.38:683][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.31-19.29.38:683][390]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.31-19.29.38:683][390]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.31-19.29.38:683][390]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.31-19.29.38:683][390]AssetCheck: /Game/BLUEPRINTS_GO_HERE/BP_Sample Validating asset
+[2026.03.31-19.29.38:719][390]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Projects/GAME160_CollabExercise/GAME160/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.31-19.29.40:136][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
