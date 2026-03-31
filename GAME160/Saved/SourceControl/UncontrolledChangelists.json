@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/HUMBER_FILE/HUMBER_GAME_160/In_Class_Excercise/GAME160/Content/LEVELS_GO_HERE/Lvl_Something.umap",
+				"D:/HUMBER_FILE/HUMBER_GAME_160/In_Class_Excercise/GAME160/Content/Jacky/WBP_GiveMe.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_160/In_Class_Excercise/GAME160/Content/Jacky/BP_FloatingMSG.uasset",
+				"D:/HUMBER_FILE/HUMBER_GAME_160/In_Class_Excercise/GAME160/Content/Jacky/W_gg.uasset",
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRigModules/Content/Modules/Meshes/SKM_Biped_Template.uasset",
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content/Modules/Meshes/SKM_Root_Template.uasset",
 				"C:/Projects/GAME160_CollabExercise/GAME160/Content/Default/Characters/Mannequins/Rigs/CR_Mannequin_FootIK.uasset",
